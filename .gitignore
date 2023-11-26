@@ -6,6 +6,7 @@ build
 *~.nib
 *.so
 .swift-version
+.swiftpm
 
 # Vim
 *.swp
