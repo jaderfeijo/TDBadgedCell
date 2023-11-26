@@ -7,6 +7,7 @@
 //
 
 import XCTest
+@testable import TDBadgedCell
 
 class TDBadgedCellTests: XCTestCase {
     
