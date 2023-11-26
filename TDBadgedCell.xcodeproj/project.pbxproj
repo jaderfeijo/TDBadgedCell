@@ -59,20 +59,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		22A9C1411E460E1B0001F026 /* TDBadgedCellTests */ = {
+		22A9C1411E460E1B0001F026 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
 				22A9C1421E460E1B0001F026 /* TDBadgedCellTests.swift */,
 				22A9C1441E460E1B0001F026 /* Info.plist */,
 			);
-			path = TDBadgedCellTests;
+			path = Tests;
 			sourceTree = "<group>";
 		};
 		22F678701D80288B007D2FAE = {
 			isa = PBXGroup;
 			children = (
-				22F6787B1D80288B007D2FAE /* TDBadgedCell */,
-				22A9C1411E460E1B0001F026 /* TDBadgedCellTests */,
+				22F6787B1D80288B007D2FAE /* Sources */,
+				22A9C1411E460E1B0001F026 /* Tests */,
 				22F6787A1D80288B007D2FAE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -86,7 +86,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		22F6787B1D80288B007D2FAE /* TDBadgedCell */ = {
+		22F6787B1D80288B007D2FAE /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				22F6787C1D80288B007D2FAE /* AppDelegate.swift */,
@@ -97,7 +97,7 @@
 				22F678851D80288C007D2FAE /* LaunchScreen.storyboard */,
 				22F678881D80288C007D2FAE /* Info.plist */,
 			);
-			path = TDBadgedCell;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
