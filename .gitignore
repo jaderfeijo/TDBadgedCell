@@ -1,5 +1,6 @@
 # xcode & objective-c noise
 build
+.build
 *.pbxuser
 *.mode*
 *.perspective*
